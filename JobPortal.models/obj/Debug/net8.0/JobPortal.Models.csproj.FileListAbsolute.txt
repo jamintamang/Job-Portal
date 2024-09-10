@@ -1,0 +1,11 @@
+E:\Dot Net\JobPortal\JobPortal.models\bin\Debug\net8.0\JobPortal.Models.deps.json
+E:\Dot Net\JobPortal\JobPortal.models\bin\Debug\net8.0\JobPortal.Models.dll
+E:\Dot Net\JobPortal\JobPortal.models\bin\Debug\net8.0\JobPortal.Models.pdb
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\JobPortal.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\JobPortal.Models.AssemblyInfoInputs.cache
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\JobPortal.Models.AssemblyInfo.cs
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\JobPortal.Models.csproj.CoreCompileInputs.cache
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\JobPortal.Models.dll
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\refint\JobPortal.Models.dll
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\JobPortal.Models.pdb
+E:\Dot Net\JobPortal\JobPortal.models\obj\Debug\net8.0\ref\JobPortal.Models.dll

@@ -1,0 +1,12 @@
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\bin\Debug\net8.0\JobPortal.Infrastructure.deps.json
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\bin\Debug\net8.0\JobPortal.Infrastructure.dll
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\bin\Debug\net8.0\JobPortal.Infrastructure.pdb
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.AssemblyInfoInputs.cache
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.AssemblyInfo.cs
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.dll
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\refint\JobPortal.Infrastructure.dll
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.pdb
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\ref\JobPortal.Infrastructure.dll
+E:\Dot Net\JobPortal\jobPortal.Infrastructure\obj\Debug\net8.0\JobPortal.Infrastructure.csproj.AssemblyReference.cache
